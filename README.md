@@ -1,4 +1,4 @@
-# 42KL-Exam-Rank04
+# 42-Exam-Rank04
 
 mini version of the 42 project [minishell](https://github.com/joekeroo/42KL-minishell/).
 
